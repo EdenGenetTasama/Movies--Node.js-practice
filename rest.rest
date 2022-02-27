@@ -1,0 +1,18 @@
+GET http://localhost:2503
+
+# POST http://localhost:2503
+# Content-Type: application/json
+
+# PUT  http://localhost:2503/1   
+# Content-Type: application/json
+
+# DELETE http://localhost:2503/1 
+
+
+{"movie" : 
+    {
+        "id": 9,
+        "name": "Iron man9",
+        "rating": 6  
+    }
+}
